@@ -48,15 +48,17 @@ The negative sign in gain indicates a **phase shift of 180°**.
 Acl = -RF/R1
 
 PIN DIAGRAM
-<img width="305" height="162" alt="image" src="https://github.com/user-attachments/assets/2e44efa1-69c5-4462-8421-89017bdc2868" />
+<img width="272" height="138" alt="image" src="https://github.com/user-attachments/assets/665d06f9-1019-462f-92d9-3845147bd904" />
+
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
 
-<img width="262" height="157" alt="image" src="https://github.com/user-attachments/assets/740133d6-d02b-48d3-857a-432708ede077" />
+<img width="311" height="203" alt="image" src="https://github.com/user-attachments/assets/3f40c408-101e-4325-89b0-b7b155e7ccf9" />
+
 
 MODEL GRAPH 
 
-<img width="237" height="225" alt="image" src="https://github.com/user-attachments/assets/dfb917e5-58fa-4e05-ab5e-240af4336211" />
+<img width="344" height="212" alt="image" src="https://github.com/user-attachments/assets/64cb1a1b-8530-40dd-b0ca-7ac0ced90287" />
 
 
 
@@ -64,10 +66,8 @@ DESIGN:
 
 Inverting amplifier:
 
-A = -Rf/R1
-Take  A = 10
-Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
+<img width="315" height="117" alt="image" src="https://github.com/user-attachments/assets/c83a933a-99bb-4696-8f66-2311bafa9d29" />
+
 
 PROCEDURE:
 Inverting amplifier:
@@ -83,15 +83,16 @@ Inverting amplifier:
 
 ## TABULATION
 
-<img width="384" height="218" alt="image" src="https://github.com/user-attachments/assets/fda530ba-605f-422c-94bd-3e25d3690376" />
+<img width="364" height="195" alt="image" src="https://github.com/user-attachments/assets/3b37f521-eada-4b05-bf37-ad0023f8653f" />
+
 
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="433" height="645" alt="image" src="https://github.com/user-attachments/assets/dcc0d28d-3bba-4b5c-aa36-3b694f36bfbd" />
+<img width="410" height="558" alt="image" src="https://github.com/user-attachments/assets/e0c2c783-d09b-4898-b2ad-d79815e15185" />
+<img width="354" height="408" alt="image" src="https://github.com/user-attachments/assets/c48fd629-162c-440f-a5d6-4c06b381abeb" />
 
-![WhatsApp Image 2025-11-17 at 21 19 42_9a0b82d2](https://github.com/user-attachments/assets/dfd5901b-7e2b-48b7-a9ea-de06020e0d7b)
 
 ---
 ### **Non-Inverting Amplifier**
@@ -106,11 +107,12 @@ ACL = 1 + RF/R1
 ---
 
 ## CIRCUIT DIAGRAM
-<img width="245" height="243" alt="image" src="https://github.com/user-attachments/assets/3d8d060c-4730-4398-b2b7-29e90d6847d5" />
 
+<img width="335" height="221" alt="image" src="https://github.com/user-attachments/assets/35085fe7-8817-4143-9375-c7030bc8b5bc" />
 
 ## MODEL GRAPH
-<img width="303" height="211" alt="image" src="https://github.com/user-attachments/assets/c338dbbe-f5c0-4810-bc81-882de2c5f14b" />
+<img width="321" height="178" alt="image" src="https://github.com/user-attachments/assets/c4145a7e-f67a-4bcd-84d7-0226d9b00e54" />
+
 
 
 PROCEDURE:
@@ -124,13 +126,15 @@ PROCEDURE:
 7. Plot the input vs. output waveform for one practical case.
 
 ## TABULATION
-<img width="409" height="206" alt="image" src="https://github.com/user-attachments/assets/8055b915-d4a7-4592-8cee-52c70f7555e2" />
+
+<img width="416" height="251" alt="image" src="https://github.com/user-attachments/assets/c8af36e2-fcf9-4cd5-8067-1e073fc96a77" />
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-17 at 21 19 42_ca23a5d0](https://github.com/user-attachments/assets/81b7ff64-9c33-4abb-8525-712d180deef6)
+<img width="552" height="723" alt="image" src="https://github.com/user-attachments/assets/232dd4ac-4632-4711-a8ae-0985f5767d21" />
+<img width="530" height="574" alt="image" src="https://github.com/user-attachments/assets/8d5bcf8b-d203-43b6-aeaa-26f9efe2fdf9" />
 
-![WhatsApp Image 2025-11-17 at 21 19 43_4623bace](https://github.com/user-attachments/assets/a80e80ad-38ee-4d54-a7a0-3e6f59c1c39c)
+
 
 ---
 ## DIFFERENTIAL AMPLIFIER
@@ -142,14 +146,17 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-<img width="304" height="232" alt="image" src="https://github.com/user-attachments/assets/06ae99ea-57a2-45c7-aac6-9e1432a814e2" />
+<img width="490" height="316" alt="image" src="https://github.com/user-attachments/assets/08438696-9f25-408f-89c9-fdaa94ceab33" />
+
 
 MODEL GRAPH1:
 
+<img width="611" height="629" alt="image" src="https://github.com/user-attachments/assets/fe630a8d-5d3f-4151-90fd-bb4f9aa08805" />
 
 
 ## DESIGN
 
+<img width="491" height="161" alt="image" src="https://github.com/user-attachments/assets/ad413d9d-db43-4a9e-9ac6-7d168b921010" />
 
 ### **Differential Amplifier**
 
@@ -177,13 +184,15 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-<img width="394" height="234" alt="image" src="https://github.com/user-attachments/assets/394955d0-bd26-4e51-8638-b2999b9511e9" />
+<img width="536" height="296" alt="image" src="https://github.com/user-attachments/assets/8b69599b-0d8f-403c-96be-355fd867f059" />
+
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-17 at 21 19 43_a8d225a0](https://github.com/user-attachments/assets/4002adeb-c7da-49a8-a9dc-3b406e51ceb5)
+<img width="1109" height="821" alt="image" src="https://github.com/user-attachments/assets/a31d3a76-8463-4ef4-8019-f1d248888151" />
+
 
 
 ## INSTRUMENTATION AMPLIFIER
@@ -198,7 +207,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+<img width="504" height="370" alt="image" src="https://github.com/user-attachments/assets/d6ae0b89-ecca-4b0a-9b3a-869b656a39a4" />
+
 
 PROCEDURE:
 
@@ -213,12 +223,16 @@ PROCEDURE:
 ---
 
 ## TABULATION (Instrumentation Amplifier)
+<img width="539" height="357" alt="image" src="https://github.com/user-attachments/assets/30f67931-5981-4b51-adbd-a659dfe2e05c" />
 
-![WhatsApp Image 2025-11-17 at 21 24 11_f1fd9266](https://github.com/user-attachments/assets/16ecf88e-00c1-4f40-98ad-2348b68a9005)
+
+<img width="493" height="702" alt="image" src="https://github.com/user-attachments/assets/7a4b6587-1fd9-4155-93d9-257fb306bd1e" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-17 at 21 24 43_6c15e3d7](https://github.com/user-attachments/assets/1cb93433-e601-4152-9659-6bcb1a49b974)
+<img width="592" height="545" alt="image" src="https://github.com/user-attachments/assets/f18bd2ac-d66f-4352-a13d-2db6ec4b4950" />
+
 
 
 ---

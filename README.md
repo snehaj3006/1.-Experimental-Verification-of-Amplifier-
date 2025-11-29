@@ -16,7 +16,7 @@ To design and construct an Inverting, Non-Inverting, Differential and Instrument
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 1 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1K, 10K, 2.2K | 2 |
+| 6 | Resistors | 10k,100k | 2 |
 | 7 | Connecting wires and probes | As required | — |
 
 ---
@@ -48,6 +48,7 @@ The negative sign in gain indicates a **phase shift of 180°**.
 Acl = -RF/R1
 
 PIN DIAGRAM
+
 <img width="272" height="138" alt="image" src="https://github.com/user-attachments/assets/665d06f9-1019-462f-92d9-3845147bd904" />
 
 
@@ -151,7 +152,7 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 MODEL GRAPH1:
 
-<img width="611" height="629" alt="image" src="https://github.com/user-attachments/assets/fe630a8d-5d3f-4151-90fd-bb4f9aa08805" />
+<img width="360" height="366" alt="image" src="https://github.com/user-attachments/assets/51f3df25-8830-435c-950f-bd51a31c3d9f" />
 
 
 ## DESIGN

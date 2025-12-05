@@ -69,6 +69,9 @@ Inverting amplifier:
 
 <img width="315" height="117" alt="image" src="https://github.com/user-attachments/assets/c83a933a-99bb-4696-8f66-2311bafa9d29" />
 
+<img width="537" height="307" alt="image" src="https://github.com/user-attachments/assets/d0584550-a25e-4d4e-bb10-9f8c1e0fde9f" />
+<img width="496" height="528" alt="image" src="https://github.com/user-attachments/assets/e0f5586f-96af-45ef-82e1-271790066032" />
+
 
 PROCEDURE:
 Inverting amplifier:
@@ -130,6 +133,8 @@ PROCEDURE:
 
 <img width="416" height="251" alt="image" src="https://github.com/user-attachments/assets/c8af36e2-fcf9-4cd5-8067-1e073fc96a77" />
 
+<img width="416" height="244" alt="image" src="https://github.com/user-attachments/assets/27aa0b76-5b81-47ea-a8bd-a995933a5398" />
+<img width="471" height="484" alt="image" src="https://github.com/user-attachments/assets/838bd50e-86d8-4562-82fb-485805a990f4" />
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 <img width="552" height="723" alt="image" src="https://github.com/user-attachments/assets/232dd4ac-4632-4711-a8ae-0985f5767d21" />
@@ -158,6 +163,8 @@ MODEL GRAPH1:
 ## DESIGN
 
 <img width="491" height="161" alt="image" src="https://github.com/user-attachments/assets/ad413d9d-db43-4a9e-9ac6-7d168b921010" />
+<img width="537" height="375" alt="image" src="https://github.com/user-attachments/assets/938d9a32-6726-4b5c-8ac2-77b827caf219" />
+<img width="577" height="508" alt="image" src="https://github.com/user-attachments/assets/30ff3250-8db9-4f88-b425-3409b860f1f6" />
 
 ### **Differential Amplifier**
 
